@@ -1,0 +1,6 @@
+{
+  "name": "Vision4K Player",
+  "description": "High-performance 4K Ultra HD video player with multicore decoding, hardware acceleration, gesture controls, and Android 17 Material 3 themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
